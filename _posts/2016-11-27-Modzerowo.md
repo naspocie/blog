@@ -10,7 +10,7 @@ Tylko my na spocie.
 
 Michał opanował i trzaskał coś co można nazwać "no hands" rufą :grin:.
 
-![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9541.JPG.jpg "„no hands” rufa")
+![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9541.JPG "„no hands” rufa")
 ![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9545.JPG "„no hands” rufa")
 ![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9546.JPG "„no hands” rufa")
 ![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9547.JPG "„no hands” rufa")
