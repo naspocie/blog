@@ -6,7 +6,9 @@ title: Xantos
 Było milusio jak na 5 stopni :) Zajechaliśmy około 11. Pływać zaczęliśmy o 12, a skończyliśmy o 15.
 
 Michał zaordynował sobie 5,7 i ogólnie miał za dużo, ja na 5,7 miałem akurat. Wyszło słońce co było miłą niespodzianką.
-Tylko my na spocie. Fotki w załączniku. Michał opanował i trzaskał coś co można nazwać "no hands" rufą :grin:.
+Tylko my na spocie.
+
+Michał opanował i trzaskał coś co można nazwać "no hands" rufą :grin:.
 
 ![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9541.JPG.jpg "„no hands” rufa")
 ![„no hands” rufa](https://raw.githubusercontent.com/naspocie/blog/master/images/2016-11-27-Modzerowo/DSCN9545.JPG "„no hands” rufa")
