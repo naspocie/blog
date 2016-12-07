@@ -4,6 +4,7 @@ title: Xantos
 ---
 
 Było milusio jak na 5 stopni :) Zajechaliśmy około 11. Pływać zaczęliśmy o 12, a skończyliśmy o 15.
+
 Michał zaordynował sobie 5,7 i ogólnie miał za dużo, ja na 5,7 miałem akurat. Wyszło słońce co było miłą niespodzianką.
 Tylko my na spocie. Fotki w załączniku. Michał opanował i trzaskał coś co można nazwać "no hands" rufą :grin:.
 
