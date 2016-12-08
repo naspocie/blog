@@ -29,7 +29,7 @@ date_format:    "%A, %B %-d, %Y"
     <li class="ins-imgs-li" id="{{ img_name }}">
         <div class="ins-imgs-img" onclick=this.classList.toggle("zoom");>
             <a name="{{ img.path }}" href="#{{ img_name }}">
-                <img src=".{{ img.path }}"
+                <img src="{{ site.baseurl }}{{ image.path }}"
                      alt="{{ img_name }}"
                      style="max-width: {{ page.max_width }}"/>
             </a>
