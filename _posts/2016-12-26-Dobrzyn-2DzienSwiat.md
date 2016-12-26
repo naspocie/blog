@@ -18,7 +18,7 @@ Oczywiście odpuściliśmy tylko dlatego że dziś było popływane :grin:
 
 _Tekst: DarekF_
 
-No to może ja podsumuję: to były bardzo udane Święta Wielkanocne. Wigilia na nartach, 2 dzień Świąt na desce.  
+No to może ja podsumuję: to były bardzo udane Święta Bożego Narodzenia. Wigilia na nartach, 2 dzień Świąt na desce.  
 Jak to zwykł mawiać Przedmówca: w narciarstwie i windsurfingu najważniejsze jest dobre planowanie...
 
 _MichalG_
