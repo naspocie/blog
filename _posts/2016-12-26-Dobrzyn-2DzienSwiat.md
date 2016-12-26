@@ -5,6 +5,7 @@ title: Dobrzyń n.Wisłą 26.12.2016
 
 No to może ja... zaczęliśmy około 12, a skończyliśmy o 15,55  czyli już po zachodzie.  
 W zasadzie to Michał zaczął (jako przedskoczek na 5,0), a ja dołączyłem trochę później ponieważ poczekałem aż ustali się na 5,2 jak dla mnie.  
+
 Wiatr powoli i ociężale przybierał na sile i był przy tym bardzo nierówny.  
 Najlepsze było ostatnie 1,5 godziny tego pływania. Jak skończyliśmy zaczęło lać.  
 Oprócz nas na wodzie były jeszcze dwie deski. Chyba pierwszy raz ich tam widziałem.  
