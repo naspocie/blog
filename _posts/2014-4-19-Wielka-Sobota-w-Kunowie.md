@@ -3,7 +3,8 @@ layout: post
 title: Wielka Sobota w Kunowie 19.04.2014
 ---
 
-Nasza pierwsza wizyta nad jeziorem Kunów, gdzie podążyliśmy śladem Alu-lochy.
+Nasza pierwsza wizyta nad jeziorem Kunów, gdzie podążyliśmy śladem Alu-lochy. 
+![Alu-locha](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_2962.JPG "Alu-locha")
 
 Wiatru nie było za wiele - mimo desek freestyle 100l i żagla 6.2 tylko połowa najazdów była ślizgowa.
 Mimo to udało się kilka razy skoczyć. Ten pierwszy raz i towarzyszący mu chrupot obracających sie rolek to naprawdę duże przeżycie..
