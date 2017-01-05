@@ -9,6 +9,7 @@ Nasza pierwsza wizyta nad jeziorem Kunów, gdzie podążyliśmy śladem Alu-loch
 Wiatru nie było za wiele - mimo desek freestyle 100l i żagla 6.2 tylko połowa najazdów była ślizgowa.
 Mimo to udało się kilka razy skoczyć. Ten pierwszy raz i towarzyszący mu chrupot obracających sie rolek to naprawdę duże przeżycie..
 Na szczęście ruch deski po rampie jest płynny i nie ma tendencji do zaliczenia katapy na zębach .smile.  
+![Skok na Chili](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_3030.JPG "Skok na Chili")
 
 Okazało się, że deski freestyle są zbyt delikatne do takiej zabawy. Jazda dnem po rolkach, aczkolwiek wydawałoby się że łagodna, to powoduje jednak wgniecenia.
 Zrolkowałem najpierw skate, a następnie chilli.
