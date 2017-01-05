@@ -16,10 +16,4 @@ Skoki nie były imponujące, a lądowanie następowało w trzcinach. Ale może t
 Cały kłopot z rampą (porównują do naturalnej fali) jest taki, że najeżdżając na rampę od pewnego momentu nie ma odwrotu - trzeba wycisnąć ile się da prędkości i skoczyć.
 Zbyt mała prędkośc najazdu kończy się jak na tym filmiku:
 
-Jeśli prędkość jest wystarczając zmostajemy nagrodzeni łagodnym zeskokiem:
-![Stay cool on this Big Mother](https://raw.githubusercontent.com/naspocie/blog/master/images/1999-1-1-Xantos/xantos1.jpg "Stay cool on this Big Mother")
-![Stay cool on this Big Mother](https://raw.githubusercontent.com/naspocie/blog/master/images/1999-1-1-Xantos/xantos2.jpg "Stay cool on this Big Mother")
-![Stay cool on this Big Mother](https://raw.githubusercontent.com/naspocie/blog/master/images/1999-1-1-Xantos/xantos3.jpg "Stay cool on this Big Mother")
-![Stay cool on this Big Mother](https://raw.githubusercontent.com/naspocie/blog/master/images/1999-1-1-Xantos/xantos4.jpg "Stay cool on this Big Mother")
-
 _Majka i Michał_
