@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wielka Sobota w Kunowie
+title: Wielka Sobota w Kunowie 19.04.2014
 ---
 
 Nasza pierwsza wizyta nad jeziorem Kunów, gdzie podążyliśmy śladem Alu-lochy.
