@@ -18,7 +18,7 @@ Zrolkowałem najpierw skate, a następnie chilli.
 Skoki nie były imponujące, a lądowanie następowało w trzcinach. Ale może to i lepiej na pierwszy raz.  
 ![W trzcinach](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_3064.JPG "W trzcinach")
 
-Cały kłopot z rampą (porównują do naturalnej fali) jest taki, że najeżdżając na rampę od pewnego momentu nie ma odwrotu - trzeba wycisnąć ile się da prędkości i skoczyć.
+Cały kłopot z rampą (porównując do naturalnej fali) jest taki, że najeżdżając od pewnego momentu nie ma odwrotu - trzeba wycisnąć ile się da prędkości i skoczyć.
 Zbyt mała prędkośc najazdu kończy się jak na tym filmiku:  
 [![Skucha](http://img.youtube.com/vi/UkiJi8FbM9g/0.jpg)](http://www.youtube.com/watch?v=UkiJi8FbM9g)
 
