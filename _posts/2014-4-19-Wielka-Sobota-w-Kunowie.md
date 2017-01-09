@@ -19,6 +19,8 @@ Skoki nie były imponujące, a lądowanie następowało w trzcinach. Ale może t
 ![W trzcinach](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_3064.JPG "W trzcinach")
 
 Cały kłopot z rampą (porównują do naturalnej fali) jest taki, że najeżdżając na rampę od pewnego momentu nie ma odwrotu - trzeba wycisnąć ile się da prędkości i skoczyć.
-Zbyt mała prędkośc najazdu kończy się jak na tym filmiku:
+Zbyt mała prędkośc najazdu kończy się jak na tym filmiku:  
+[![Skucha](http://img.youtube.com/vi/UkiJi8FbM9g/0.jpg)](http://www.youtube.com/watch?v=UkiJi8FbM9g)
 
-_Majka i Michał_
+_Majka i Michał_  
+[Galeria zdjęć i filmy tutaj](https://www.google.com)
