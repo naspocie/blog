@@ -23,4 +23,4 @@ Zbyt mała prędkośc najazdu kończy się jak na tym filmiku:
 [![Skucha](http://img.youtube.com/vi/UkiJi8FbM9g/0.jpg)](http://www.youtube.com/watch?v=UkiJi8FbM9g)
 
 _Majka i Michał_  
-[Galeria zdjęć i filmy tutaj](https://www.google.com)
+[Galeria zdjęć i filmy tutaj](http://naspocie.pl/Poland/Kunow/index.html)
