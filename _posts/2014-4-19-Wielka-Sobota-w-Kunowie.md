@@ -12,8 +12,11 @@ Na szczęście ruch deski po rampie jest płynny i nie ma tendencji do zaliczeni
 ![Skok na Chili](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_3030.JPG "Skok na Chili")
 
 Okazało się, że deski freestyle są zbyt delikatne do takiej zabawy. Jazda dnem po rolkach, aczkolwiek wydawałoby się że łagodna, to powoduje jednak wgniecenia.
-Zrolkowałem najpierw skate, a następnie chilli.
-Skoki nie były imponujące, a lądowanie następowało w trzcinach. Ale może to i lepiej na pierwszy raz.
+Zrolkowałem najpierw skate, a następnie chilli.  
+![Chili uszkodzona](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_3229.JPG "Chili uszkodzona")
+
+Skoki nie były imponujące, a lądowanie następowało w trzcinach. Ale może to i lepiej na pierwszy raz.  
+![W trzcinach](http://naspocie.pl/Poland/Kunow/Photo/Alu%20Locha%202014-04-19/slides/IMG_3064.JPG "W trzcinach")
 
 Cały kłopot z rampą (porównują do naturalnej fali) jest taki, że najeżdżając na rampę od pewnego momentu nie ma odwrotu - trzeba wycisnąć ile się da prędkości i skoczyć.
 Zbyt mała prędkośc najazdu kończy się jak na tym filmiku:
