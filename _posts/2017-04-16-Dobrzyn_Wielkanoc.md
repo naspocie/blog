@@ -16,6 +16,7 @@ co robiliśmy za przedskoczków dołączyli zawodowcy. Lokalny Paweł tylko jako
 
 W drugiej fazie było z czystego W i porobiło się dużo za dużo wiatru na nasze żagle ale musieliśmy być dzielni
 i wytrwać do końca czyli do 9-tej. Odkrętka z N do naszego odjazdu jednak szczęśliwie nie nastąpiła.  
+
 Jeszcze tylko Świąteczne Życzenia okraszone pukaniem się jajkami, ale na szczęście tylko takimi gotowanymi na twardo,
 które to Michał miał zabezpieczone w stosownym pudełeczku.
 Dodatkowo na koniec wymieniliśmy się wzajemnie uznaniem dla naszych wspaniale wyrozumiałych żon
