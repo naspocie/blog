@@ -16,5 +16,5 @@ Ja skończyłem deczko przed nim i pojechałem czyścić lakierki. Gdy byłem pr
 DarekF  
 
 ps. kolejny promocyjny filmik:
-[![Na Dobrzyn](https://raw.githubusercontent.com/naspocie/blog/master/images/2017-04-22-Dobiegniewo/___.jpg)](http://www.youtube.com/watch?v=___________)  
+[![Na Dobrzyn](https://raw.githubusercontent.com/naspocie/blog/master/images/2017-04-22-Dobiegniewo/Dobiegniewo%202017-04-22.png)](http://www.youtube.com/watch?v=o8PfPsJ1z0E)  
 MichalG
