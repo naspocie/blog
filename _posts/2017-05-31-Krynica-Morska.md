@@ -5,6 +5,7 @@ date: 2017-05-31
 ---
 Zajechaliśmy około 11-ej. Na parkingu żywego ducha. Na plaży pojedyncze osoby, głównie spacerowicze. Słońce, trochę chmurek i 17 celsjuszów.
 Wiało jakieś 20 węzłów z zachodu co wróżyło pływanie po lekkim skosie w prawo.  
+
 Przybój póki co był mizerny, prąd takiż sam.
 Wg icm miało się rozwiewać, więc ja postanowiłem że 5,2, a Michał po długim wahaniu 4,5 co okazało się zbyt optymistycznym posunięciem z jego strony.
 Założyliśmy jaskrawe koszulki i na wodę. Pierwsze halsy były słabe i Michał zmienił na 5,0.
