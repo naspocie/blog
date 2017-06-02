@@ -70,6 +70,7 @@ PS. fotek brak, ale koleś co ze mną pływał to na czepku miał kamerkę i obi
 
 DarekF
 
+
 Było tak:
 Jak długo Darek pływał to go widziałem oczywiście, ale już wtedy miał z 300m straty na wysokości.
 Później sam się wygrzmociłem strefie przybojowej, zmieliło mnie, przeszedłem przybój itp.
