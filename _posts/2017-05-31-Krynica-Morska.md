@@ -88,3 +88,7 @@ Niepotrzebnie traciłem czas na poszukiwania telefonu do SAR w Krynicy, bo jak m
 Ale by była fajna siara...  
 
 MichalG
+
+ps. obiecany filmik:
+[![Na Morzu](https://raw.githubusercontent.com/naspocie/blog/master/images/2017-05-31-Krynica-Morska/Krynica%2031-05-2017.jpg)](https://youtu.be/XbgWMyjiaKo)  
+MichalG
