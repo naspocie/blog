@@ -14,6 +14,6 @@ Uwielbiam to miejsce przy kierunku NW: nie ma problemu z doborem żagla. Każdy 
 Ja wylosowałem 4,5, a Darek 5,2. Warunki na wodzie hmm, trudne. Hals na Starą Wieś jeszcze jak cie mogę, ale powrotny!?
 Odbijanka po grzbietach kocich łbów wymagała nóg i rąk z hydraulicznymi amortyzatorami. 
 Darek odpuścił po kilku halsach mając w perspektywie przenosiny na bardziej komfortowe warunki w Nowym Duninowie. 
-Ja katowałem siebie i sprzęt do 9:45 po czym ewakuowałem się do pracy.  
+Ja katowałem siebie i sprzęt do 9:45, po czym ewakuowałem się do pracy.  
 
 MichalG  
