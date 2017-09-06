@@ -4,7 +4,7 @@ title: Karolinów 27.08.2017
 date: 2017-08-27
 ---
 
-## Windsurfing familijny.  
+## Windsurfing familijny  
 
 Po uiszczeniu 7zł udało się znaleźć miejscówkę po prawej stronie pod lasem na wysokości wiaty. 
 Wiatr był szkoleniowy, a na plaży - plaża... Szybciutko jednak pojawiły się pierwsze obiecujące podmuchy,
