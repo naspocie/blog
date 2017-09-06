@@ -22,6 +22,7 @@ Po kwadransie walki o życie na 5,7 chmura wydała z siebie kilka grzmotów, śc
 Też zostaliśmy we dwóch - tym razem w wodzie na bezwietrzu... Zastosowane zostały metody: 
 - wpław 
 - za sznurek 
+
 Obie okazały się skuteczne :smile:.
 
 Co dalej: dalej to Darek musiał się zabierać na stadion, pojawił się ładny wiatr, więc wziąłem hełm z kamerką Zorka 5 i zrobiłem parę ujęć z pływania Jerzyka z tatą:  
