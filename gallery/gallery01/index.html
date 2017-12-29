@@ -7,7 +7,7 @@ header-img: "img/gallery-bg.jpg"
 album-title: "Pierwszy album"
 pictures-folder: "/gallery/pictures/g01"
 caption: IMAGE TITLE
-copyright: © NaSpocie
+copyright: © NaSpocie.pl
 ---
 
 <html class="no-js" lang="en">
@@ -33,13 +33,13 @@ copyright: © NaSpocie
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ page.caption }}" data-caption="{{ page.copyright }}">
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ image.path }}" data-caption="{{ page.copyright }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary" id="{{ page.caption }}">
-							<h3>{{page.caption}}</h3>
+							<h3>{{image.path}}</h3>
 							<p>{{page.copyright}}</p>
 						</div>
 					</figcaption>
