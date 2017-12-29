@@ -32,7 +32,7 @@ images:
 
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
-
+<!--
 {% for image in page.images %}  		
 
 				<figure class="gallery-item">
@@ -51,13 +51,13 @@ images:
 				</figure>
 				
 {% endfor %}
-<!--
+-->
 {% for image in site.static_files %}
     {% if image.path contains '/gallery/pictures/g01' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
--->
+
 			</div>
 
 		</div><!-- END .wrapper -->
