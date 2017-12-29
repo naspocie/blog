@@ -33,13 +33,13 @@ copyright: © NaSpocie.pl
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ image.path }}" data-caption="{{ page.copyright }}">
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ image.basename }}" data-caption="{{ page.copyright }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary" id="{{ page.caption }}">
-							<h3>{{image.path}}</h3>
+							<h3>{{image.basename}}</h3>
 							<p>{{page.copyright}}</p>
 						</div>
 					</figcaption>
