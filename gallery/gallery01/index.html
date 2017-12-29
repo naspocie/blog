@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "album"
-description: "masonry"
+description: "Ciągle testujemy"
 active: gallery
 header-img: "img/gallery-bg.jpg"
-album-title: "my 1st album"
+album-title: "Pierwszy album"
 pictures-folder: "/gallery/pictures/g01"
 caption: IMAGE TITLE
 copyright: © NaSpocie
@@ -33,14 +33,14 @@ copyright: © NaSpocie
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ caption }}" data-caption="{{ copyright }}">
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}" class="popup"  title="{{ page.caption }}" data-caption="{{ page.copyright }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="{{ caption }}">
-							<h3>{{caption}}</h3>
-							<p>{{copyright}}</p>
+						<div class="entry-summary" id="{{ page.caption }}">
+							<h3>{{page.caption}}</h3>
+							<p>{{page.copyright}}</p>
 						</div>
 					</figcaption>
 				</figure>
