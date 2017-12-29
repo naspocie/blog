@@ -33,8 +33,11 @@ images:
 
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
-<!--
+
+{% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
+{% for image in site.static_files %}
 {% for image in page.images %}  		
+    {% if image.path contains '/gallery/pictures/g01' %}
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
@@ -51,15 +54,16 @@ images:
 					</figcaption>
 				</figure>
 				
+    {% endif %}
 {% endfor %}
--->
+<!--
 {% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
 {% for image in site.static_files %}
     {% if image.path contains '/gallery/pictures/g01' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
-
+-->
 			</div>
 
 		</div><!-- END .wrapper -->
