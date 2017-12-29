@@ -5,6 +5,7 @@ description: "masonry"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 album-title: "my 1st album"
+pictures-folder: "/gallery/pictures/g01"
 images:
  - image_path: /gallery/pictures/g01/defaultFilterOperator1.png
    caption: IMAGE TITLE
@@ -52,6 +53,7 @@ images:
 				
 {% endfor %}
 -->
+{% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
 {% for image in site.static_files %}
     {% if image.path contains '/gallery/pictures/g01' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
