@@ -6,13 +6,13 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 album-title: "my 1st album"
 images:
- - image_path: /gallery/archive/g01/bg1.jpg
+ - image_path: /gallery/pictures/g01/bg1.jpg
    caption: IMAGE TITLE
    copyright: © photorama
- - image_path: /gallery/archive/g01/bg2.jpg
+ - image_path: /gallery/pictures/g01/bg2.jpg
    caption: IMAGE TITLE
    copyright: © photorama
- - image_path: /gallery/archive/g01/bg3.jpg
+ - image_path: /gallery/pictures/g01/bg3.jpg
    caption: IMAGE TITLE
    copyright: © photorama
 ---
@@ -53,7 +53,7 @@ images:
 {% endfor %}
 <!--
 {% for image in site.static_files %}
-    {% if image.path contains '/gallery/archive/g01' %}
+    {% if image.path contains '/gallery/pictures/g01' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
