@@ -36,7 +36,6 @@ images:
 
 {% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
 {% for image in site.static_files %}
-{% for image in page.images %}  		
     {% if image.path contains '/gallery/pictures/g01' %}
 
 				<figure class="gallery-item">
