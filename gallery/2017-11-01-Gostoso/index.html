@@ -27,7 +27,7 @@ copyright: © NaSpocie.pl
 
 {% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
 {% for image in site.static_files %}
-    {% if image.path contains '/gallery/pictures/g01' %}
+    {% if image.path contains page.pictures-folder %}
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
