@@ -55,7 +55,8 @@ images:
 				
 {% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
 {% for image in site.static_files %}
-			
+ {% if image.path contains page.pictures-folder %}
+				
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
@@ -64,7 +65,7 @@ images:
 	
 				</header>	
 				</figure>
-
+  {% endif %}
 {% endfor %}
 
 				</div>
