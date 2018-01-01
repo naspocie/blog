@@ -48,8 +48,7 @@ pictures-folder: "/gallery/2017-11-01-Gostoso/pictures"
 				<canvas id="kenburns"></canvas>
 				
 {% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
-{% assign shuffled_array = page.array | shuffle %}
-{% for image in shuffled_array %}
+{% for image in site.static_files %}
  {% if image.path contains page.pictures-folder %}
 				
 				<figure class="gallery-item">
