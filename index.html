@@ -48,7 +48,7 @@ pictures-folder: "/gallery/2017-11-01-Gostoso/pictures"
 				<canvas id="kenburns"></canvas>
 				
 {% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
-{% for image in site.static_files %}
+{% for image in site.static_files | sample %}
  {% if image.path contains page.pictures-folder %}
 				
 				<figure class="gallery-item">
