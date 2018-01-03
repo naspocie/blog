@@ -25,7 +25,8 @@ pictures-folder: "/gallery/2017-11-01-Gostoso/pictures"
 <script type="text/javascript">
 
     var imagePath = [{% for image in site.static_files %}"{{ image.path }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-
+document.write('<a href="{{ site.url }}{{ site.baseurl }}"' + imagePath[0] + '>');
+document.write('<img src="{{ site.url }}{{ site.baseurl }}"' + imagePath[0] + '></a>');
 </script>
 
   
