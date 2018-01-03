@@ -47,20 +47,19 @@ pictures-folder: "/gallery/2017-11-01-Gostoso/pictures"
 
 				<canvas id="kenburns"></canvas>
 				
-{% capture ipath %}{{ page.pictures-folder }}{% endcapture %}
-{% for image in site.static_files %}
- {% if image.path contains page.pictures-folder %}
-				
+{% assign min = 0 %}
+{% assign max = site.static_files.size %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.path }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.path }}"></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ site.static_files[randomNumber] }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ site.static_files[randomNumber] }}"></a>
 	
 				</header>	
 				</figure>
-  {% endif %}
-{% endfor %}
 
 				</div>
 			<!-- END WYSIWYG -->
