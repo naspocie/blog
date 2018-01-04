@@ -21,13 +21,13 @@ pictures-folder: "/gallery/2017-11-01-Gostoso/pictures"
 	<!-- Modernizr -->
   <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 
-<script type="text/javascript">
-    var imagePath = [{% for image in site.static_files %}"{{ image.path }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-</script>
-
 </head>
 
 <body class="fullscreen">
+
+<script type="text/javascript">
+    var imagePath = [{% for image in site.static_files %}"{{ image.path }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+</script>
 
 <!-- MAIN CONTENT SECTION  _____________________________________________-->
 	<section id="content" role="main">
