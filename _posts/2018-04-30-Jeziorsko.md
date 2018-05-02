@@ -38,4 +38,11 @@ Oblaliśmy to potem hucznie herbatą i colą w pizzerii w Poddębicach :smile:.
 
 [Fotosy tu:](http://naspocie.pl/photorama/gallery/2018-04-30-Jeziorsko/)  
 
-DarekF
+DarekF  
+
+To prawda. Zostałem pokonany.  
+Ale nie dzielmy skóry na Misiu.  
+Mój sztab już przygotował [materiał szkoleniowy](https://youtu.be/ad9aVpPjFz0), a komórki Wuja Filipa skrywają niejedną tajną broń...  
+Jeszcze obudzi się stary Niedźwiedź!  
+
+MichalG
