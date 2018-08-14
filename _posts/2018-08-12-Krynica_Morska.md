@@ -4,6 +4,7 @@ title: Krynica Morska 12.08.2018
 date: 2018-08-12
 ---
 ## Mega wtopa?  
+
 No to może ja...  
 pomarańczowe okazało się ciemnozielonym. ICM, Windguru, Rybacka i inne - wczoraj mega wtopa. Ryba bardzo dobra.  
 DarekF  
