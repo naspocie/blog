@@ -22,4 +22,4 @@ DarekF
 Ps. w mojej relacji zabrakło wzmianki o jednym incydencie na wodzie. Centymetry brakowały jakbym staranował Wuja.
 Jakoś rufa mi się rozciągnęła. Włocławski prawie 40 km długości, nas tylko dwóch już wtedy było,
 a ja bym Wuja staranował - nieźle co?  
-[Brakujące centymetry:](https://youtu.be/P0P0gw4vDgc)
+[Brakujące centymetry](https://youtu.be/P0P0gw4vDgc)
