@@ -10,3 +10,6 @@ node_modules
 package.json
 /blog/nbproject/private/
 /nbproject/private/
+/testEncoding/nbproject/private/
+/testEncoding/build/
+/testEncoding/dist/
