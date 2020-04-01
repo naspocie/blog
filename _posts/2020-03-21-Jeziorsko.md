@@ -1,0 +1,27 @@
+---
+layout: post
+title: Jeziorsko 21.03.2020
+date: 2020-03-21
+---
+
+## Nie patrz w dół, Wujo, nie patrz w dół!  
+
+No niestety, Wujo - czytasz czyli spojrzałeś w dół...  
+
+Czyli widzisz na jutro NNE (Jeziorsko zach. brzeg), 7m/s albo nawet 15węzłów i 2* ?  
+
+MichalG  
+
+Wujo, nie zważając na wszech grasującego korona-świrusa dosiadł narowistego rumaka petardy 6,2. 
+To był bardzo dobry wybór.  
+Ja jako luzak i rescue. Wody mniej o jakiś metr niż przy zwykłym letnim stanie. 
+Po lewej stronie w odległości ok. 200-300m od spotu, poodsłaniało się sporo lądu i różne skarby:  
+
+Niestety też i przeszkody, które latem mogą być lub są tuż pod powierzchnią wody. Dlatego lepiej unikać tej strefy:  
+
+Było malowniczo bo przez sine chmury przebijało słonko. Zdjęcia niestety z marnego smartfona. 
+W słońcu znośnie, ale gdy chowało się od razu robiło się lodowato. A co dopiero na wodzie.  
+Oprócz jednego Wuja widziano dwa kajty, ale gdzieś bardzo daleko. Cicho i brak tłoku.  
+Idealny warun na bezpieczny, aktywny spacerek.  
+
+DarekF
