@@ -12,5 +12,9 @@ Ja zrobiłem na ten przykład 3 i pół ślizgu na 5,7 ale widziano też jednego
 poślizgał się i na 5,0! Wiadomo o którego Wuja chodzi, więc nie ma co strzępić języka.
 Wujo ten to dziś i na farcie się poślizgał... bo jak inaczej nazwać wyrwanie pina z gumy 3 metry od
 brzegu i to tego właściwego! Szczegóły na foto.   
+![foto](https://raw.githubusercontent.com/naspocie/blog/master/images/2020-06-06-Karolinow/DSCN0210.jpg "foto")  
+![foto](https://raw.githubusercontent.com/naspocie/blog/master/images/2020-06-06-Karolinow/DSCN0226.jpg "foto")  
+![foto](https://raw.githubusercontent.com/naspocie/blog/master/images/2020-06-06-Karolinow/DSCN0310.jpg "foto")  
+![foto](https://raw.githubusercontent.com/naspocie/blog/master/images/2020-06-06-Karolinow/DSCN0338.jpg "foto")  
 
 DarekF
