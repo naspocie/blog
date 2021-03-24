@@ -6,7 +6,7 @@ date: 2020-10-18
 
 ## trochę pośmigał na 5,7...  
 
-Ja nie byłem, Wujo był w Karolinowie i trochę pośmigał na 5,7,
+Ja nie byłem, Wujo był w Karolinowie i trochę pośmigał na 5,7.
 Daliśmy ciała obaj chyba, bo w DnW mieli 3 godziny na 4,7 !!! i ładne fale,
 co do konsekwencji zdrowotnych to chłopaki może będą, może nie będą mieli.  
 DarekF  
