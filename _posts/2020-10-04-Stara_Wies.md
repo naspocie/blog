@@ -8,7 +8,7 @@ date: 2020-10-04
 
 Do Starej Wsi prowadzi teraz droga szybkiego ruchu z kostki. Oczekiwał nas
 gospodarz spotu czyli, czyli, tak Robercik we własnej osobie!
-Na betonowym nabrzeżu oczekiwało tez 20 wędkarzy, którzy mieli akurat
+Na betonowym nabrzeżu oczekiwało też 20 wędkarzy, którzy mieli akurat
 zawody. Nie wiedzieliśmy jeszcze wtedy, że my windsurferzy jesteśmy ich
 celem połowu. Ale nie uprzedzajmy wypadków.  
 Wujo pewnie zda dokladniekszą relację, ale tak się zdarzyło że Wujo został
@@ -30,7 +30,7 @@ MichalG
 Sioj ta joj, potwierdzam 100%,  
 tylko dla uściślenia dodam, że w te zawody wędkarskie na betonce to ja zdryfowałem
 po półgodzinie bezradności w oczekiwaniu na jakikolwiek podmuszek by marzyć o starcie z wody.
-Nawet próbowałem za sznurek ale wiatru było totalne ZERO, jak nie choćby grama bryzki to wiecie
+Nawet próbowałem za sznurek, ale wiatru było totalne ZERO, jak nie choćby grama bryzki to wiecie
 czym to się kończy,... darmową bęką śmiechu dla tych co na brzegu. Od Panów zawodników wędkarskich
 przy lądowaniu pomiędzy zarzuconymi zestawami gruntowymi oczywiście usłyszałem tradycyjne
 przaśne: E!!!!! spie...laj!!!! Ten wiater co wiał na 5,7 urwał się dość nagle i zastało nas w złych miejscach,
