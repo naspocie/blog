@@ -17,4 +17,10 @@ Ale zdążyłem :smiley:
 
 Galeria:  
 [![Galeria:](https://raw.githubusercontent.com/naspocie/blog/master/images/2021-05-30-Domaniowski/David.jpg)](https://photos.google.com/share/AF1QipPuTCcVM4p275iAQgxdOKlebuiL-ZN80H4MEPRNEsB3lqghC5tPbYwDmZMrIiI_Fw?key=VmJ4cHZsa3dvVExTc2MyQVNMR1ZrRnRTdVBCUmhR)  
+
+Co do żagli to Wujowi ze starości pękł monofilm na tym legendowym
+czerwonym "bokserze".  
+Od razu na gorąco połataliśmy silvertapem.... Wujo pamietaj:  
+nie gnieść, trzymać w okładce ... jeszcze lata będzie służyć! :smiley:  
+
 DarekF
