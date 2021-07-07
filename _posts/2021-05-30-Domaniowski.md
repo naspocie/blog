@@ -7,11 +7,11 @@ date: 2021-05-30
 ## Dawid i (kamberowy) Goliat :smiley:  
 
 Uciekając przed kosiarką, sekatorem i drabiną razem z Wujem
-zrobiliśmy wycieczkę do Domaniowa. Prognoza nie dawała szans
+zrobiliśmy wycieczkę do Domaniowa. Prognoza nie dawała szans,
 ale się pomyliła. Trochę polataliśmy, szczególnie jak przyszła jedna
 granatowa chmura :smiley:. Fotki obejmują jednak tylko sielankę Wuja i jednego
 wielkogabarytowego lokalesa, bo jak przyszła owa granatowa wisienka na torciku
-to i ja poleciałem na wodę :smiley:
+to i ja poleciałem na wodę :smiley:  
 DAWNO SIĘ TAK SZYBKO NIE PRZEBIERAŁEM ZA FOKĘ!  
 Ale zdążyłem :smiley:  
 
