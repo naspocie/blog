@@ -6,13 +6,13 @@ date: 2021-06-13
 
 ## Pochylnia dzisiaj super ugościła  
 
-''W związku z luzowaniem obostrzeń pandemicznych informuję, że od jutra
+*W związku z luzowaniem obostrzeń pandemicznych informuję, że od jutra
 przestaje obowiązywać limit 2 windsurferów na 1 spocie...  
 Pochylnia nie jest duża, ale jakoś się pomieścimy?  
 Serdecznie zapraszam.  
 
 Wysłano z Samsunga S5 z nową baterią!  
-MichalG''  
+MichalG*  
 
 Pochylnia dzisiaj super ugościła. Co prawda "tylko" na około 5.0,
 ale pływaliśmy aż 6 godzin. Wujo Sylwio troszkę krócej ale musiał być wcześniej od nas 
