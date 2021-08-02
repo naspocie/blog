@@ -24,7 +24,8 @@ Sam nie mogłem o siebie zadbać, bo w obie strony miałem pełną "wywrotkę" d
 łopatkami i wiaderkami. Wiadomo jak piachu tyle to kopać trzeba!  
 
 Trochę głupio mi z tymi fotkami, bo Wujo załapał się tylko raz i tylko jako aktor drugiego planu. 
-Czerwono bordowy żagiel + żółta koszulka lidera. W sumie to sam sobie winien, bo mógł podjeżdżać bliżej obiektywu. 
+[Czerwono bordowy żagiel + żółta koszulka lidera](https://naspocie.pl/photorama/gallery/2021-07-30-Lubiatowo/pictures/226318499_2213304332143223_3625864025350865971_n.jpg). 
+W sumie to sam sobie winien, bo mógł podjeżdżać bliżej obiektywu. 
 Nie dziwota jednak ten brak entuzjazmu Wuja do parcia na szkło. 
 Nazbyt częste przebywanie w przyboju przez nas dwóch wsiowych windsurferów byłoby brakiem rozumu. 
 Zginęlibyśmy my i niechybnie pchły nasze. No ale nasze pchły nie chciały odpuścić, więc podjęliśmy tą nierówną walkę. 
