@@ -4,18 +4,18 @@ title: Lubiatowo 30.07.2021
 date: 2021-07-30
 ---
 
-## 4 godziny pływał po morzu bez zawijania do portu...  
+## Wóz zaplecza technicznego  
 
 Wujo Daro leci jutro o świcie do Białogóry. 
-I wcale nie na prognozę leci, tylko do żony, do wnuczki, żeby w niedzielę zabrać ten cały majdan do domu. Więc sprzętu zabrać nie może.  
+I wcale nie na prognozę leci, tylko do żony, do wnuczki, żeby w niedzielę zabrać ten cały majdan do domu. Więc sprzętu zabrać nie może. 
 I tu ew. moja rola jako wozu zaplecza technicznego by była...  
 Z tym że problem taki może być, że prognoza jest trochę za bardzo...  
 Czyli cała operacja rozwija się (lub zwija) bardzo dynamicznie...  
 MichalG  
 
-Niech obraz przemówi. Dwie galerie tu:  
+Niech obraz przemówi:  
 
-[![Fotki:](https://naspocie.pl/photorama/gallery/2021-07-30-Lubiatowo/pictures/223774228_2214459018694421_8592850221386590473_n.jpg)](https://naspocie.pl/photorama/gallery/2021-07-30-Lubiatowo/)  
+[![Niech obraz przemówi:](https://naspocie.pl/photorama/gallery/2021-07-30-Lubiatowo/pictures/223774228_2214459018694421_8592850221386590473_n.jpg)](https://naspocie.pl/photorama/gallery/2021-07-30-Lubiatowo/)  
 
 Kilka refleksji z wiązanych z ostatnim weekendem na wybrzeżu i pływaniem & fotografowaniem w Lubiatowie.  
 
@@ -42,6 +42,10 @@ Byłem wzruszony. Nawet uroniłem łzę... i ta łza wpadła mi do szklanki... i
 I w ten to subtelny sposób dzięki Wujowi mniej mi potem w głowie szumiało... prawie w ogóle...   
 Brawo Wujo! Brawo on!
 
-W sobotę też pojechaliśmy do Lubiatowa, choć prognoza nie rozpieszczała. I tak byliśmy w okolicy, ostatni dzień nad morzem więc czemu nie. Lepsze to niż leżeć na kocu albo przybić sobie stopę do piachu wbijając parawan. Wujo 5,0 ja 5,3. Fal brak i kierunek trochę on. Ledwie godzinkę udało się poobcować z wilgocią, a potem nagłe przerwy w ślizgu kazały się wylogować.
-Podsumowując warto było. Przez duże W i duże B.
+W sobotę też pojechaliśmy do Lubiatowa, choć prognoza nie rozpieszczała. 
+I tak byliśmy w okolicy, ostatni dzień nad morzem więc czemu nie. 
+Lepsze to niż leżeć na kocu albo przybić sobie stopę do piachu wbijając parawan. 
+Wujo 5,0 ja 5,3. Fal brak i kierunek trochę on. Ledwie godzinkę udało się poobcować z wilgocią, a potem nagłe przerwy w ślizgu kazały się wylogować.
+Podsumowując warto było.  
+Przez duże W i duże B.  
 DarekF  
