@@ -11,7 +11,7 @@ od 8:00 do 10:00 przy wzorcowym tam kierunku SW i bardzo równym wietrze bez nie
 Wujo Michał 5,0 a ja 5,3. Potem odkręciło planowo z W i mleko się zsiadło. Wujo na takie
 wiatrowe pierepałki ma w kieszeni tajną broń i nie zawahał się jej użyć. Raz czy dwa udało
 mu się nawet przejść do krótkiej (naprawdę bardzo krótkiej) fazy niestabilnego lotu,
-po czym samolot położył się na lewe skrzydło i przepadł zabierając ze sobą pilota.
+po czym samolot położył się na lewe skrzydło i przepadł zabierając ze sobą pilota.  
 Wujo nie przejmuj się. Każdym następnym razem będzie już na pewno lepiej.
 Braciom Wright i ich aparatowi o nazwie Flyer też na początku nie szło najlepiej
 ale w końcu dopięli swego. Ty właśnie teraz jesteś jak dawni pionierzy lotnictwa.
