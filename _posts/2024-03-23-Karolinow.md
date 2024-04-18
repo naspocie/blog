@@ -6,7 +6,7 @@ date: 2024-03-23
 
 ## A tu zmrok zapada...  
 
-Na prognozie icm stromy pik aż do 10m/s z kierunku SW - czyli ideanie.  
+Na prognozie icm stromy pik aż do 10m/s z kierunku SW - czyli idealnie.  
 Problem tylko w tym, że początek piku w deszczu, a koniec w ciemności.  
 Rozpoznanie bojem wymagało dużego hartu ducha:  
 * o 15:00 brak wiatru  
