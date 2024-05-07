@@ -7,7 +7,7 @@ date: 2024-05-01
 ## Wysoka woda daje dużo kajtów  
 
 Wielka majówka w Zaspach Miłkowskich. Aż trudno znależć miejsce by zwodować. 
-Jka już się to udało to udało się też polatać na Skate/5,7 tak mocno po południu. 
+Jak już się to udało, to udało się też polatać na Skate/5,7 - tak mocno po południu. 
 Im póżniej tym bardziej się wiatr wyrównywał.  
 
 Wyjaśniło się dlaczego kajty tak się Zaspach Miłkowskich rozmnożyły.  
