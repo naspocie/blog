@@ -12,7 +12,7 @@ Wiatr równy i na 5.0 dawało radę, ale bez szaleństw.
 Dojechało jeszcze trzech ... wingowców.  
 Pomyślałem sobie, jak powiedział Kmicic do Wołodyjowskiego: 
 "Kończ Waść, wstydu oszczędź", 
-i po godzinie z okładem skończyłem z kompletnie zdrętwiałymi dłoniami.  
+i po godzinie z okładem skończyłem z kompletnie zdrętwiałymi dłońmi.  
 Przywracanie krążenia bolało. Bardzo!  
 
 MichalG  
