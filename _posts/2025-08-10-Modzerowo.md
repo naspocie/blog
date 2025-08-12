@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modzerowo 10.08.2025
-date: 2025-08-18
+date: 2025-08-10
 ---
 
 ## Wlazłem na szkło  
