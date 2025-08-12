@@ -17,4 +17,4 @@ Piętę mam rozciętą.
 
 Ale oczywiście Warto Było!  
 
-MichalG
+MichalG  
