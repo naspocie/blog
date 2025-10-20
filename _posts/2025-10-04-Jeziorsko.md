@@ -4,7 +4,7 @@ title: Jeziorsko 04.10.2025
 date: 2025-10-04
 ---
 
-## Za ladne rufy ... herbata!  
+## Za ładne rufy ... herbata!  
 
 Na miejscu (Zaspy Miłowskie) dojście do wody obstawione namiotami wędkarzy :angry:  
 Wiatr SSE i nie za ciepło ~11C. Siłę wiatru oceniłem na 4,5m2, może trochę na wyrost, 
